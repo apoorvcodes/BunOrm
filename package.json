@@ -5,6 +5,7 @@
   "main": "src/index.ts",
   "scripts": {
     "run": "ts-node src/index.ts",
+    "run-bun": "bun src/index.ts",
     "build": "tsc ."
   },
   "devDependencies": {
